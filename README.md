@@ -20,5 +20,5 @@ Using the provided framework, I edited the website by reviewing the existing cod
 - How changes in code affect the appearance and behavior of a website
 
 ## Notes
-This project was completed for an academic course and demonstrates foundational exposure to web development concepts rather than advanced programming or analytics.
+This project was completed for an academic course and demonstrates foundational exposure to web development concepts 
 
